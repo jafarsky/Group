@@ -614,6 +614,18 @@ video {
   width: 1.25rem;
 }
 
+.w-\[9\%\] {
+  width: 9%;
+}
+
+.w-\[96\%\] {
+  width: 96%;
+}
+
+.w-\[93\%\] {
+  width: 93%;
+}
+
 .border-spacing-1 {
   --tw-border-spacing-x: 0.25rem;
   --tw-border-spacing-y: 0.25rem;
